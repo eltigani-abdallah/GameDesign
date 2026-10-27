@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="42ff9c00-70df-4570-911a-9ed48c1dda2c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Pagario/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pagario/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game/Scripts/PlayerMove.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game/Scripts/PlayerMove.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game/Scripts/PlayerEat.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game/Scripts/PlayerEat.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "food",
+    "git-widget-placeholder": "game",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -95,7 +95,7 @@
       <workItem from="1792302718423" duration="520000" />
       <workItem from="1792306877568" duration="609000" />
       <workItem from="1792863867192" duration="1200000" />
-      <workItem from="1793094931434" duration="5441000" />
+      <workItem from="1793094931434" duration="9529000" />
     </task>
     <servers />
   </component>

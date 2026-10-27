@@ -28,7 +28,7 @@ public class PlayerEat : MonoBehaviour
             Debug.Log("POISON NOO");
             PlayerRb.transform.localScale -= new Vector3(fat, fat, fat);
         }
-        Destroy(collision.gameObject);
+        // Destroy(collision.gameObject);
     }
 
     // Update is called once per frame
