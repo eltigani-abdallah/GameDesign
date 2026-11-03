@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Food
   - Poison
+  - Mouth
   layers:
   - Default
   - TransparentFX
