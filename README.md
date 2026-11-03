@@ -1,10 +1,5 @@
 Le pouvoir necessite des sacrifices. dans cette monde, mangez, ou faites vous mangez, ce sont vos seuls choix. laquelle vous choisirez?
 
-## Platform
-
-Navigateur web
-
-# Core gameplay
 
 ## Boucle principale
 
